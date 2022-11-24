@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Perfect-Princess
-- 👀 I’m interested in Software development and ML
-- 💞️ I’m looking to collaborate on ML projects 
-- 📫 princess.makuwerere@gmail.com 
+- 👋 Hi, I’m Naku
+- 👀 I’m interested in Software development and Machine learning
+- 💞️ I’m looking to collaborate on software development projects
+- 📫  reach out through email @ princess.makuwerere@gmail.com 
 
 
 <!---

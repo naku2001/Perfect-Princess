@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naku
 - 👀 I’m interested in Software development,Game Development and Machine learning
-- 💞️ I’m looking to collaborate on software development projects
+- 💞️ I’m looking to collaborate on software development projects,machine learning and game develoment
 - 📫  reach out through email @ perfect.makuwerere@students.uz.ac.zw
 
 
